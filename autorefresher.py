@@ -10,8 +10,8 @@ class Engine:
         self.login = login
         self.password = password
         self.mode = mode
-        # self.button_resume_up = "//button[@data-qa='resume-update-button']"
-        self.button_resume_up = "//button[@data-qa='resume-update-button_actions']"
+        self.button_resume_up = "//button[@data-qa='resume-update-button']"
+        # self.button_resume_up = "//button[@data-qa='resume-update-button_actions']"
         self.auto_refresher()
 
     # Авторизация в сервисе
