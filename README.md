@@ -21,8 +21,7 @@ Program for auto-updater resume
 
 Запуск программы производится через start_settings.py.
 
-Структура файла настроек:
+Структура файла настроек, каждый элемент на отдельной строке:
 https://hh.ru/applicant/resumes?hhtmFromLabel=header&hhtmFrom=negotiations_item
 LOGIN
 PASSWORD
-1
